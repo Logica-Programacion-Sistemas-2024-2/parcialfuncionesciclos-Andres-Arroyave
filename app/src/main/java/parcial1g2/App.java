@@ -73,7 +73,7 @@ public class App {
 
                         break;
                     case "20":
-                        tasaSeguro = 0.0699;
+                        tasaSeguro = 0.00699;
                         tasaRodamiento = 0.05680;
                         impuestoRodamiento = (int) (avaluoVeh * tasaRodamiento);
                         seguro = (int) (avaluoVeh * tasaSeguro);
